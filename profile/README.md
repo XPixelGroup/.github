@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Open-XSource/.github/blob/main/profile/assets/main.jpg" height="200"/><br>Our mission is to make the world look clearer and better!
+  <img src="https://github.com/XPixelGroup/.github/blob/main/profile/assets/main.jpg" height="200"/><br>Our mission is to make the world look clearer and better!
   <div>&nbsp;</div>
   <div align="center">
     <b><font size="2">XPixel Homepage</font></b>
@@ -18,19 +18,19 @@ Open-XSource is committed to open-sourcing the low-level computer vision algorit
 2. contribute to the development of low-level vision community.
 
 <div align="center">
-  <img src="https://github.com/Open-XSource/.github/blob/main/profile/assets/arch_v2.png" width="700"/>
+  <img src="https://github.com/XPixelGroup/.github/blob/main/profile/assets/arch_v2.png" width="700"/>
 </div>
 
 We classify our works into four categories:
 
-- [X-Super Resolution](https://github.com/Open-XSource/X-Super-Resolution): Algorithms in the realm of image super-resolution.
-- [X-Image Processing](https://github.com/Open-XSource/X-Image-Processing): Algorithms in the realm of image restoration and enhancement.
-- [X-Video Processing](https://github.com/Open-XSource/X-Video-Processing): Algorithms for processing videos.
-- [X-Low level Interpretation](https://github.com/Open-XSource/X-Low-level-Interpretation): Algorithms for interpreting the principle of neural networks in low-level vision field.
-- [X-Evaluation and Benchmark](https://github.com/Open-XSource/X-Evaluation-and-Benchmark): Datasets for training or evaluating state-of-the-art algorithms.
+- [X-Super Resolution](https://github.com/XPixelGroup/X-Super-Resolution): Algorithms in the realm of image super-resolution.
+- [X-Image Processing](https://github.com/XPixelGroup/X-Image-Processing): Algorithms in the realm of image restoration and enhancement.
+- [X-Video Processing](https://github.com/XPixelGroup/X-Video-Processing): Algorithms for processing videos.
+- [X-Low level Interpretation](https://github.com/XPixelGroup/X-Low-level-Interpretation): Algorithms for interpreting the principle of neural networks in low-level vision field.
+- [X-Evaluation and Benchmark](https://github.com/XPixelGroup/X-Evaluation-and-Benchmark): Datasets for training or evaluating state-of-the-art algorithms.
 
 It is our sincere hope that these contributions prove valuable to the research community and contribute to the advancement of knowledge in low-level computer vision. Your interest and engagement are greatly appreciated as we collectively strive for progress and innovation.
 
 <div align="center">
-  <img src="https://github.com/Open-XSource/.github/blob/main/profile/assets/metaverse.jpg"/>
+  <img src="https://github.com/XPixelGroup/.github/blob/main/profile/assets/metaverse.jpg"/>
 </div>
