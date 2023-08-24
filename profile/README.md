@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/XPixelGroup/.github/blob/main/profile/assets/main.jpg" height="200"/><br>Our mission is to make the world look clearer and better!
+  <img src="https://github.com/XPixelGroup/.github/blob/main/profile/assets/main.jpg" height="200"/><br>
+  <b>Our mission is to make the world look clearer and better!</b>&#128512;
   <div>&nbsp;</div>
   <div align="center">
     <b><font size="2">XPixel Homepage</font></b>
