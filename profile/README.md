@@ -21,7 +21,7 @@ Open-XSource is committed to open-sourcing the low-level computer vision algorit
   <img src="https://github.com/XPixelGroup/.github/blob/main/profile/assets/arch_v2.png" width="700"/>
 </div>
 
-We classify our work into four categories:
+We classify our work into five categories:
 
 - [X-Super Resolution](https://github.com/XPixelGroup/X-Super-Resolution): Algorithms in the realm of image super-resolution.
 - [X-Image Processing](https://github.com/XPixelGroup/X-Image-Processing): Algorithms in the realm of image restoration and enhancement.
