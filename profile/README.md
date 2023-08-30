@@ -19,7 +19,7 @@ Open-XSource is committed to open-sourcing the low-level computer vision algorit
 2. contribute to the development of low-level vision community.
 
 <div align="center">
-  <img src="https://github.com/XPixelGroup/.github/blob/main/profile/assets/arch_v2.png" width="700"/>
+  <img src="https://github.com/XPixelGroup/.github/blob/main/profile/assets/arch.png" width="700"/>
 </div>
 
 We classify our work into five categories:
